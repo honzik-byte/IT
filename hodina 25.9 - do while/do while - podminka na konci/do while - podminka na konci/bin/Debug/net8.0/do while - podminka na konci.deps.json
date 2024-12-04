@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "do while - podminka na konci/1.0.0": {
+        "runtime": {
+          "do while - podminka na konci.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "do while - podminka na konci/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
