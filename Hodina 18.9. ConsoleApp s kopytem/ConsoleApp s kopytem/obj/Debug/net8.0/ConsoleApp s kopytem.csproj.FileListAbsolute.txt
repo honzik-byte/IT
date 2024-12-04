@@ -1,0 +1,14 @@
+O:\ConsoleApp s kopytem\ConsoleApp s kopytem\bin\Debug\net8.0\ConsoleApp s kopytem.exe
+O:\ConsoleApp s kopytem\ConsoleApp s kopytem\bin\Debug\net8.0\ConsoleApp s kopytem.deps.json
+O:\ConsoleApp s kopytem\ConsoleApp s kopytem\bin\Debug\net8.0\ConsoleApp s kopytem.runtimeconfig.json
+O:\ConsoleApp s kopytem\ConsoleApp s kopytem\bin\Debug\net8.0\ConsoleApp s kopytem.dll
+O:\ConsoleApp s kopytem\ConsoleApp s kopytem\bin\Debug\net8.0\ConsoleApp s kopytem.pdb
+O:\ConsoleApp s kopytem\ConsoleApp s kopytem\obj\Debug\net8.0\ConsoleApp s kopytem.GeneratedMSBuildEditorConfig.editorconfig
+O:\ConsoleApp s kopytem\ConsoleApp s kopytem\obj\Debug\net8.0\ConsoleApp s kopytem.AssemblyInfoInputs.cache
+O:\ConsoleApp s kopytem\ConsoleApp s kopytem\obj\Debug\net8.0\ConsoleApp s kopytem.AssemblyInfo.cs
+O:\ConsoleApp s kopytem\ConsoleApp s kopytem\obj\Debug\net8.0\ConsoleApp s kopytem.csproj.CoreCompileInputs.cache
+O:\ConsoleApp s kopytem\ConsoleApp s kopytem\obj\Debug\net8.0\ConsoleApp s kopytem.dll
+O:\ConsoleApp s kopytem\ConsoleApp s kopytem\obj\Debug\net8.0\refint\ConsoleApp s kopytem.dll
+O:\ConsoleApp s kopytem\ConsoleApp s kopytem\obj\Debug\net8.0\ConsoleApp s kopytem.pdb
+O:\ConsoleApp s kopytem\ConsoleApp s kopytem\obj\Debug\net8.0\ConsoleApp s kopytem.genruntimeconfig.cache
+O:\ConsoleApp s kopytem\ConsoleApp s kopytem\obj\Debug\net8.0\ref\ConsoleApp s kopytem.dll
