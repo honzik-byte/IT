@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hodina 9.10.", "..\hodina 9.10\hodina 9.10..csproj", "{16E7B03F-D71B-4216-B2B5-D8257C0A5042}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16E7B03F-D71B-4216-B2B5-D8257C0A5042}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16E7B03F-D71B-4216-B2B5-D8257C0A5042}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16E7B03F-D71B-4216-B2B5-D8257C0A5042}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16E7B03F-D71B-4216-B2B5-D8257C0A5042}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54878327-F4F3-44C1-AAC2-4758925A9208}
+	EndGlobalSection
+EndGlobal
