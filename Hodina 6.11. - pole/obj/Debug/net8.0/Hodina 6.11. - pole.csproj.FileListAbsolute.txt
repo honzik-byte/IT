@@ -1,0 +1,28 @@
+O:\Seminar Informatika\Hodina 6.11. - pole\bin\Debug\net8.0\Hodina 6.11. - pole.exe
+O:\Seminar Informatika\Hodina 6.11. - pole\bin\Debug\net8.0\Hodina 6.11. - pole.deps.json
+O:\Seminar Informatika\Hodina 6.11. - pole\bin\Debug\net8.0\Hodina 6.11. - pole.runtimeconfig.json
+O:\Seminar Informatika\Hodina 6.11. - pole\bin\Debug\net8.0\Hodina 6.11. - pole.dll
+O:\Seminar Informatika\Hodina 6.11. - pole\bin\Debug\net8.0\Hodina 6.11. - pole.pdb
+O:\Seminar Informatika\Hodina 6.11. - pole\obj\Debug\net8.0\Hodina 6.11. - pole.GeneratedMSBuildEditorConfig.editorconfig
+O:\Seminar Informatika\Hodina 6.11. - pole\obj\Debug\net8.0\Hodina 6.11. - pole.AssemblyInfoInputs.cache
+O:\Seminar Informatika\Hodina 6.11. - pole\obj\Debug\net8.0\Hodina 6.11. - pole.AssemblyInfo.cs
+O:\Seminar Informatika\Hodina 6.11. - pole\obj\Debug\net8.0\Hodina 6.11. - pole.csproj.CoreCompileInputs.cache
+O:\Seminar Informatika\Hodina 6.11. - pole\obj\Debug\net8.0\Hodina 6.11. - pole.dll
+O:\Seminar Informatika\Hodina 6.11. - pole\obj\Debug\net8.0\refint\Hodina 6.11. - pole.dll
+O:\Seminar Informatika\Hodina 6.11. - pole\obj\Debug\net8.0\Hodina 6.11. - pole.pdb
+O:\Seminar Informatika\Hodina 6.11. - pole\obj\Debug\net8.0\Hodina 6.11. - pole.genruntimeconfig.cache
+O:\Seminar Informatika\Hodina 6.11. - pole\obj\Debug\net8.0\ref\Hodina 6.11. - pole.dll
+O:\Seminar Informatika 2024\Programování\Hodina 6.11. - pole\bin\Debug\net8.0\Hodina 6.11. - pole.exe
+O:\Seminar Informatika 2024\Programování\Hodina 6.11. - pole\bin\Debug\net8.0\Hodina 6.11. - pole.deps.json
+O:\Seminar Informatika 2024\Programování\Hodina 6.11. - pole\bin\Debug\net8.0\Hodina 6.11. - pole.runtimeconfig.json
+O:\Seminar Informatika 2024\Programování\Hodina 6.11. - pole\bin\Debug\net8.0\Hodina 6.11. - pole.dll
+O:\Seminar Informatika 2024\Programování\Hodina 6.11. - pole\bin\Debug\net8.0\Hodina 6.11. - pole.pdb
+O:\Seminar Informatika 2024\Programování\Hodina 6.11. - pole\obj\Debug\net8.0\Hodina 6.11. - pole.GeneratedMSBuildEditorConfig.editorconfig
+O:\Seminar Informatika 2024\Programování\Hodina 6.11. - pole\obj\Debug\net8.0\Hodina 6.11. - pole.AssemblyInfoInputs.cache
+O:\Seminar Informatika 2024\Programování\Hodina 6.11. - pole\obj\Debug\net8.0\Hodina 6.11. - pole.AssemblyInfo.cs
+O:\Seminar Informatika 2024\Programování\Hodina 6.11. - pole\obj\Debug\net8.0\Hodina 6.11. - pole.csproj.CoreCompileInputs.cache
+O:\Seminar Informatika 2024\Programování\Hodina 6.11. - pole\obj\Debug\net8.0\Hodina 6.11. - pole.dll
+O:\Seminar Informatika 2024\Programování\Hodina 6.11. - pole\obj\Debug\net8.0\refint\Hodina 6.11. - pole.dll
+O:\Seminar Informatika 2024\Programování\Hodina 6.11. - pole\obj\Debug\net8.0\Hodina 6.11. - pole.pdb
+O:\Seminar Informatika 2024\Programování\Hodina 6.11. - pole\obj\Debug\net8.0\Hodina 6.11. - pole.genruntimeconfig.cache
+O:\Seminar Informatika 2024\Programování\Hodina 6.11. - pole\obj\Debug\net8.0\ref\Hodina 6.11. - pole.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Hodina 6.11. - pole/1.0.0": {
+        "runtime": {
+          "Hodina 6.11. - pole.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hodina 6.11. - pole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
