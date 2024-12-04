@@ -1,0 +1,14 @@
+O:\StartC\Start24\Start24\bin\Debug\net8.0\Start24.exe
+O:\StartC\Start24\Start24\bin\Debug\net8.0\Start24.deps.json
+O:\StartC\Start24\Start24\bin\Debug\net8.0\Start24.runtimeconfig.json
+O:\StartC\Start24\Start24\bin\Debug\net8.0\Start24.dll
+O:\StartC\Start24\Start24\bin\Debug\net8.0\Start24.pdb
+O:\StartC\Start24\Start24\obj\Debug\net8.0\Start24.GeneratedMSBuildEditorConfig.editorconfig
+O:\StartC\Start24\Start24\obj\Debug\net8.0\Start24.AssemblyInfoInputs.cache
+O:\StartC\Start24\Start24\obj\Debug\net8.0\Start24.AssemblyInfo.cs
+O:\StartC\Start24\Start24\obj\Debug\net8.0\Start24.csproj.CoreCompileInputs.cache
+O:\StartC\Start24\Start24\obj\Debug\net8.0\Start24.dll
+O:\StartC\Start24\Start24\obj\Debug\net8.0\refint\Start24.dll
+O:\StartC\Start24\Start24\obj\Debug\net8.0\Start24.pdb
+O:\StartC\Start24\Start24\obj\Debug\net8.0\Start24.genruntimeconfig.cache
+O:\StartC\Start24\Start24\obj\Debug\net8.0\ref\Start24.dll
